@@ -1,4 +1,4 @@
-STEPS | STEPS | STEPS | STEPS | STEPS | STEPS | STEPS
+STEPS | STEPS | STEPS | STEPS | STEPS | STEPS | STEPS | STEPS
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 Open git-bash
 
